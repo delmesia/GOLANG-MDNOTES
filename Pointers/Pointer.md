@@ -5,3 +5,6 @@ A _pointer_ is a variable that holds the location in memory where a value is sto
 var x int32 = 5
 var y  bool = true
 ```
+
+> [!CAUTION]
+> Segfault
